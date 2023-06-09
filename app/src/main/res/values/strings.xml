@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Api Data</string>
+    <string name="quote">Quote</string>
+    <string name="author_name">Author Name</string>
+    <string name="mind_blowing_quotes_from_all_around_the_world">Mind Blowing Quotes from all around the world!!</string>
+    <string name="author">author</string>
+</resources>
